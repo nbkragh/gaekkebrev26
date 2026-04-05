@@ -21,5 +21,5 @@ testest der som de danner et rigtigt dansk ord hvert krypteret ord. Det bogstav-
 - Æg-ikonet som er det eneste ikke malede repræsenterer mellemrum tegnet, er indtastet som 'D' i **input.txt**, det giver også god semantisk mening
 
 ## TODO:
-Udvid scriptet med gennemgang af mulige repræsentationer af mellemrum.
-Lav script der med en indtastet repræsentation af det binære signal, finder en meningsfuld besked - muligvis vha. ASCII værdier eller Base64
+- Udvid scriptet med gennemgang af mulige repræsentationer af mellemrum.
+- Lav script der med en indtastet repræsentation af det binære signal, finder en meningsfuld besked - muligvis vha. ASCII værdier eller Base64
