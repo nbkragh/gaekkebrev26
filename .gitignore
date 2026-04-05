@@ -1,0 +1,13 @@
+# Ignore everything by default
+*
+
+# Keep this file itself tracked
+!.gitignore
+
+# Allow only these project files
+!paralleltest.py
+!input.txt
+!1.jpg
+!2.jpg
+!3.jpg
+!4.jpg
