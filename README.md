@@ -1,8 +1,10 @@
 # Pythonen æder påskeæggene
 En scriptløsning på FE's gækkebrev 2026.
-
+    
 ## Gækkebrev:
-4 billeder med læsebar tekst og der imellem indsat rækker af forskellige æg-symboler.
+4 billeder:</br>
+<img src="1.jpg" width="20%" alt="pic 1"> <img src="2.jpg" width="20%" alt="pic 2"> <img src="3.jpg" width="20%" alt="pic 3"> <img src="4.jpg" width="20%" alt="pic 4"> </br>
+med læsebar tekst og der imellem indsat rækker af forskellige æg-symboler.
 Æg-symboler repræsenterer bogstaver, som efter afkryptering tilsammen danner ord, der i kombination med den læsebare tekst kan svare på: "Hvem er afsenderen af årets gækkebrev, og gemmer der sig mon andre budskaber i brevet?"<br>
 Det andet budskab er indkodet som binært signal ved at de enkelte æg-symboler enten vender op eller ned; 1 / 0
 
