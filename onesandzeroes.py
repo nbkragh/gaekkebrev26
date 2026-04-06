@@ -12,8 +12,11 @@ print(Bytes)
 binaryText = "".join(binaryText.split())
 for i in range(0, len(binaryText), 8):
     byte = binaryText[i:i+8]
-    asciiValue = int(byte, 2)
-    print("'" + chr(asciiValue) + "'", end=" ")
+    bits = int(byte, 2)
+    ascii = chr(bits)
+    if not ascii.isprintable():
+        ascii = " "
+    print("'     " + ascii + "'", end=" ")
 
 print("\n\nPrøver med NOT:")
 print(" ".join("".join('1' if bit == '0' else '0' for bit in byte) for byte in Bytes.split()))
@@ -21,4 +24,4 @@ for i in range(0, len(binaryText), 8):
     byte = binaryText[i:i+8]
     asciiValue = int(byte, 2)
     invertedValue = asciiValue ^ 0xFF
-    print("'" + chr(invertedValue) + "'", end=" ")
+    print("'     " + chr(invertedValue) + "'", end=" ")

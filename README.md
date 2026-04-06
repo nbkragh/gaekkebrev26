@@ -33,6 +33,7 @@ Dekryptering:
 Tid: 14.22s
 ```
 
+
 **Afsenderen er Alan Turing, Datalogiens fader**
 
 #### Antagelser:
@@ -52,14 +53,15 @@ Som kontrol prøver scriptet også en inverteret version (0/1 byttet om) med bit
 
 Prøver 8-bit ASCII: 
 10101100 00000111 10011000 10011011 10010110 10001011 10010001 10000110 10011010 10010101 10010000 10011101 10010110 10111001 10111010
-'¬' '' '' '' '' '' '' '' '' '¹' 'º' 
+'     ¬' '      ' '      ' '      ' '      ' '      ' '      ' '      ' '      ' '      ' '      ' '      ' '      ' '     ¹' '     º' 
 
 Prøver med NOT:
 01010011 11111000 01100111 01100100 01101001 01110100 01101110 01111001 01100101 01101010 01101111 01100010 01101001 01000110 01000101
-'S' 'ø' 'g' 'd' 'i' 't' 'n' 'y' 'e' 'j' 'o' 'b' 'i' 'F' 'E' 
+'     S' '     ø' '     g' '     d' '     i' '     t' '     n' '     y' '     e' '     j' '     o' '     b' '     i' '     F' '     E'  
 ```
 
-**Det andet budskab i beskeden er :Søg dit nye job i FE**
+
+**Det andet budskab i beskeden er: Søg dit nye job i FE**
 
 
 
